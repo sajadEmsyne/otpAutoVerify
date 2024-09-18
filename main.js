@@ -117,7 +117,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "pre");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "code");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "\n              Your OTP is: 123456.\n              @rohit3230.github.io #12345");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "\n              Your OTP is: 123456.\n              @sajademsyne.github.io #12345");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, " to this phone. ");
