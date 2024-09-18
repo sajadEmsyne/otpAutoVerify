@@ -7,7 +7,7 @@ We are integrating this functionalityin angular application.
 As describe in this url: [click here](https://web.dev/web-otp/)
 
 # Live Demo URL (Live Testing URL)
-[Live Test Demo URL](https://rohit3230.github.io/webOtpAutoReadByAngular/)
+[Live Test Demo URL](https://sajademsyne.github.io/webOtpAutoReadByAngular/)
 
 # How can check working
 
@@ -15,4 +15,4 @@ Send a msg from any mobile whose number is not saved in your mobile phone (phone
 
 MSG format should be same as below:
 Your OTP is: 123456.
-@rohit3230.github.io #12345
+@sajademsyne.github.io #12345
